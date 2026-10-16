@@ -1,0 +1,14 @@
+node_modules/
+dist/
+artifacts/
+test-results/
+playwright-report/
+*.tsbuildinfo
+.DS_Store
+.env
+.env.*
+!.env.example
+*.log
+docs/reference/
+generated_images/
+*delivery*.zip
