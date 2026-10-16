@@ -15,9 +15,16 @@ Explore a fictional mountain incident from the first ignition to a four-day fire
 
 [![Ember Scope interactive demo](docs/media/demo.gif)](https://github.com/JesseQin123/ember-scope/blob/main/docs/media/demo.mp4)
 
-**[Watch/download the MP4 walkthrough](https://github.com/JesseQin123/ember-scope/blob/main/docs/media/demo.mp4)** · [Full-resolution overview](docs/media/overview.png) · [Video introduction and recording guide](docs/VIDEO.md)
+**[Watch/download the 40-second guided MP4](https://github.com/JesseQin123/ember-scope/blob/main/docs/media/demo.mp4)** · [Full-resolution overview](docs/media/overview.png) · [Video introduction and recording guide](docs/VIDEO.md)
 
-This recording shows the application itself: incident playback, a selected drone's EO/IR/Thermal view, a tanker release and the topographic map. It contains no footage from the original FireTrace video.
+The guided recording follows a clear sequence: **watch the fire grow → inspect it through a drone → follow an aircraft release → compare and rewind the map**. English chapter titles, transition cards, control highlights and captions explain each change. The first eight-second sweep advances the complete four-day archive from **1.95 to 444.82 hectares**; the GIF above focuses on that progression. The full video contains only this application, with no original FireTrace footage.
+
+| Time | What to watch |
+| --- | --- |
+| 00:00–00:12 | Fast fire progression: perimeter, affected area and timeline advance together |
+| 00:12–00:21 | Select a drone; compare optical, white-hot IR and thermal views |
+| 00:21–00:32 | Follow T-101 approaching and releasing retardant, then switch to cockpit |
+| 00:32–00:40 | Compare the 2D map, rewind to Day 2 and reconstruct the final perimeter |
 
 **Video introduction:** “Meet Ember Scope, an open-source, interactive wildfire visualization. Explore a fictional mountain landscape, replay four days of fire progression, inspect six simulated drones, and follow thirteen response resources. One shared timeline keeps every scene and chart in sync. Everything you see is synthetic, reproducible and ready to explore locally.”
 

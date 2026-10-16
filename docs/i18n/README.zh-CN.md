@@ -12,6 +12,8 @@
 
 [![Ember Scope 实际运行演示](../media/demo.gif)](https://github.com/JesseQin123/ember-scope/blob/main/docs/media/demo.mp4)
 
+新版完整视频约 40 秒，使用英文标题、转场说明和高亮，依次展示火势推进、无人机观察、飞机投放和地图回退。上方 11 秒 GIF 聚焦四天火势在约八秒内从 1.95 公顷扩展到 444.82 公顷。
+
 [观看或下载 MP4](https://github.com/JesseQin123/ember-scope/blob/main/docs/media/demo.mp4) · [英文视频介绍与录制方法](../VIDEO.md)
 
 视频展示本应用的火势回放、无人机 EO/IR/Thermal 视图、飞机投放和地形图，不包含原作视频片段。

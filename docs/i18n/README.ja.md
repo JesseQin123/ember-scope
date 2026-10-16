@@ -12,6 +12,8 @@
 
 [![Ember Scope の動作デモ](../media/demo.gif)](https://github.com/JesseQin123/ember-scope/blob/main/docs/media/demo.mp4)
 
+新版は約40秒のガイド動画です。英語の見出し、転換カード、強調表示、説明字幕で、火災の進行、ドローン、航空機の投下、地図の巻き戻しを順に紹介します。11秒のGIFは、4日間の火災が約8秒で1.95ヘクタールから444.82ヘクタールへ広がる様子を示します。
+
 [MP4 を見る・ダウンロードする](https://github.com/JesseQin123/ember-scope/blob/main/docs/media/demo.mp4) · [英語の紹介文と録画手順](../VIDEO.md)
 
 動画はこのアプリの実行画面です。火災の再生、EO/IR/Thermal、航空機の投下、地形図を紹介します。元の FireTrace 動画の映像は含みません。

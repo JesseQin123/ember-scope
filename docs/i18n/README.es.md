@@ -12,6 +12,8 @@ Explora un incidente ficticio en una región montañosa, desde la primera ignici
 
 [![Demostración de Ember Scope](../media/demo.gif)](https://github.com/JesseQin123/ember-scope/blob/main/docs/media/demo.mp4)
 
+El recorrido completo dura unos 40 segundos. Los títulos, las transiciones, los resaltados y los subtítulos en inglés explican la progresión del fuego, los sensores, la descarga aérea y el retroceso del mapa. El GIF de 11 segundos destaca cuatro días de incendio, de 1,95 a 444,82 hectáreas, en un barrido de unos ocho segundos.
+
 [Ver o descargar el MP4](https://github.com/JesseQin123/ember-scope/blob/main/docs/media/demo.mp4) · [Introducción en inglés y guía de grabación](../VIDEO.md)
 
 El vídeo muestra esta aplicación en funcionamiento: evolución del incendio, vistas EO/IR/Thermal, una descarga aérea y el mapa topográfico. No contiene imágenes del vídeo original de FireTrace.
